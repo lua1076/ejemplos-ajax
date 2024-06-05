@@ -1,0 +1,10 @@
+{
+    "nombre": "laura", 
+    "edad": 21, 
+    "notas": [
+        {
+            "matematicas": 5,
+            "lengua": 8
+        }
+    ]
+}
